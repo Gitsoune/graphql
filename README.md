@@ -4,7 +4,7 @@
 
 to install the directory real-time-forum
 
-    $ git clone https://zone01normandie.org/git/jcoureux/graphQL
+    $ git clone https://zone01normandie.org/git/tarribet/graphQL
     $ cd graphQL
     $ go run .
 
