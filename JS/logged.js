@@ -120,10 +120,8 @@ export const Logged = async (JWT) => {
             </div>
 
             <div class="xp">
-                <div class="xpAmount">${EXPamount}<span style="color: #CAADFF"></span> </div>
-                <div class="lastActivitySpan">Last activity</div>
-                <div class="line"></div>
-                <div class="fourExercices"></div>
+                <div style="font-size: 16px; padding: 40px 34px;">Amount of XP</div>
+                <div class="xpAmount">${EXPamount} bytes<span style="color: #CAADFF"></span> </div>
             </div>
 
             <div class="XPprogression">

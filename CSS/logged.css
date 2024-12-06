@@ -476,12 +476,12 @@ html {
 }
 
 .xp .xpAmount {
-  font-size: 60px;
+  font-size: 36px;
   font-weight: lighter;
 
   position: absolute;
-  top: 5%;
-  left: 5%;
+  top: 40%;
+  left: 10%;
 }
 
 .xp .lastActivitySpan {
