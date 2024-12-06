@@ -7,7 +7,6 @@ to install the directory real-time-forum
     $ git clone https://zone01normandie.org/git/jcoureux/graphQL
     $ cd graphQL
     $ go run .
-    
 
 ### Objectives
 
@@ -87,7 +86,7 @@ Here are a selection of interesting tables and columns which are exposed via Gra
   | id  | type | amount | objectId | userId |                        createdAt |                   path |
   | --- | :--: | -----: | -------: | -----: | -------------------------------: | ---------------------: |
   | 1   |  xp  |    234 |       42 |      1 | 2021-07-26T13:04:02.301092+00:00 | /madere/div-01/graphql |
-  | 2   |  xp  |   1v700 |        2 |      1 | 2021-07-26T13:04:02.301092+00:00 | /madere/div-01/graphql |
+  | 2   |  xp  |  1v700 |        2 |      1 | 2021-07-26T13:04:02.301092+00:00 | /madere/div-01/graphql |
   | 3   |  xp  |    175 |       64 |      1 | 2021-07-26T13:04:02.301092+00:00 | /madere/div-01/graphql |
 
 - **progress** table:
